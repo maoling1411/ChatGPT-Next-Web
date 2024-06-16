@@ -1193,7 +1193,6 @@ function _Chat() {
             {Locale.Chat.SubTitle(session.messages.length)}
           </div>
         </div>
-        <div className="window-actions"></div>
 
         <PromptToast
           showToast={!hitBottom}
